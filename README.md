@@ -8,8 +8,6 @@
 
 I'm a Software Engineer who enjoys solving difficult problems, exploring new technologies, and turning ideas into reliable software. During my undergraduate years, I was deeply involved in competitive programming as a two-time ICPC Regionalist and **ICPC Asia West Continent Finalist 2022**, competing in 20+ national and international contests representing my university. I also mentored undergraduates as a competitive programming trainer, problem setter, and judge. These days, I enjoy digging into system bottlenecks, reading about distributed systems, and translating research ideas into working code.
 
-## About Me
-
 - 🏢 Currently working as a **Software Engineer** at **[Cefalo](https://cefalo.com)**
 - ⚙️ Building scalable backend and event-driven services with **FastAPI, FastStream, NATS, PostgreSQL, and Python**
 - ☁️ Deploying and operating containerized services on **GCP** and **AWS** with **Docker** and **CI/CD** pipelines

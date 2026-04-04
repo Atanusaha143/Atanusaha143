@@ -15,12 +15,12 @@ I'm a Software Engineer who enjoys solving difficult problems, exploring new tec
 - 📖 Interested in **Intelligent Distributed Systems** and **AI for Software Engineering**
 - 🔬 Research profiles: [ResearchGate](https://www.researchgate.net/profile/Atanu-Saha-11) | [Google Scholar](https://scholar.google.com/citations?user=EsvV1TkAAAAJ&hl=en)
 
-## Publications
+### Publications
 
 - [A Comparative Analysis on Fake News Detection Methods](https://dl.acm.org/doi/abs/10.1145/3542954.3543010), published at *ICCA '22* (ACM Digital Library)
 
-## Connect With Me
+### 📫 Want to collaborate or chat? Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atanusaha143-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanusaha143/)
-[![DEV](https://img.shields.io/badge/DEV-atanusaha143-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/atanusaha143)
-[![Gmail](https://img.shields.io/badge/Gmail-atanu.saha415%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atanu.saha415@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-atanusaha143-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atanusaha143/)](https://www.linkedin.com/in/atanusaha143/)
+[![DEV Badge](https://img.shields.io/badge/-atanusaha143-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/atanusaha143)](https://dev.to/atanusaha143)
+[![Gmail Badge](https://img.shields.io/badge/-atanu.saha415@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atanu.saha415@gmail.com)](mailto:atanu.saha415@gmail.com)

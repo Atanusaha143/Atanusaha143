@@ -25,5 +25,4 @@ I'm a Software Engineer who enjoys solving difficult problems, exploring new tec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atanusaha143-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanusaha143/)
 [![DEV](https://img.shields.io/badge/DEV-atanusaha143-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/atanusaha143)
-[![Website](https://img.shields.io/badge/Website-atanu.github.io-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atanu.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-atanu.saha415%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atanu.saha415@gmail.com)

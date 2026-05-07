@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋 I'm Atanu</h1>
+<h1 align="center">
+  Hi there 👋 I'm <a href="https://atanusaha143.github.io/portfolio/">Atanu</a>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-Cefalo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Software Engineer at Cefalo" />
